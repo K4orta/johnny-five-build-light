@@ -17,11 +17,11 @@ app.get('/events/build/failure', function(req, res) {
   })
 });
 
-app.get('/events/build/error', function(req, res) {
+app.get('/events/build/success', function(req, res) {
   rgb.color('#00ff00');
   res.json({
     color: 'green'
-  })
+  });
 });
 
 app.get('/event/build/', function(req, res) {
