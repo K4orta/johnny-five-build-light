@@ -1,0 +1,24 @@
+{
+  "name": "johnny-five-build-light",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "johnny-five": "^0.9.33"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K4orta/johnny-five-build-light.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K4orta/johnny-five-build-light/issues"
+  },
+  "homepage": "https://github.com/K4orta/johnny-five-build-light#readme"
+}
